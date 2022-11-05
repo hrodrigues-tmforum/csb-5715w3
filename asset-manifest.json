@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://hrodrigues-tmforum.github.io/csb-5715w3/static/js/main.2233a994.chunk.js",
+    "main.js.map": "https://hrodrigues-tmforum.github.io/csb-5715w3/static/js/main.2233a994.chunk.js.map",
+    "runtime-main.js": "https://hrodrigues-tmforum.github.io/csb-5715w3/static/js/runtime-main.39f23ba1.js",
+    "runtime-main.js.map": "https://hrodrigues-tmforum.github.io/csb-5715w3/static/js/runtime-main.39f23ba1.js.map",
+    "static/js/2.3f4b260c.chunk.js": "https://hrodrigues-tmforum.github.io/csb-5715w3/static/js/2.3f4b260c.chunk.js",
+    "static/js/2.3f4b260c.chunk.js.map": "https://hrodrigues-tmforum.github.io/csb-5715w3/static/js/2.3f4b260c.chunk.js.map",
+    "index.html": "https://hrodrigues-tmforum.github.io/csb-5715w3/index.html",
+    "precache-manifest.5478e40b6325c910de951526cd9f78bf.js": "https://hrodrigues-tmforum.github.io/csb-5715w3/precache-manifest.5478e40b6325c910de951526cd9f78bf.js",
+    "service-worker.js": "https://hrodrigues-tmforum.github.io/csb-5715w3/service-worker.js",
+    "static/js/2.3f4b260c.chunk.js.LICENSE.txt": "https://hrodrigues-tmforum.github.io/csb-5715w3/static/js/2.3f4b260c.chunk.js.LICENSE.txt",
+    "static/js/main.2233a994.chunk.js.LICENSE.txt": "https://hrodrigues-tmforum.github.io/csb-5715w3/static/js/main.2233a994.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39f23ba1.js",
+    "static/js/2.3f4b260c.chunk.js",
+    "static/js/main.2233a994.chunk.js"
+  ]
+}
